@@ -41,10 +41,6 @@ La consapevolezza che, fuori dai nostri confini, dalle nostre frontiere, hanno l
 
 Ammettendo però che questo sia un paradiso a numero limitato, per esclusivo e solo diritto di nascita, stiamo tradendo noi stessi e il posto dal quale veniamo.
 
-<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">After <a href="https://twitter.com/hashtag/Aquarius?src=hash&amp;ref_src=twsrc%5Etfw">#Aquarius</a> Where are the headlines?<br>Over 220 people drowned <a href="https://twitter.com/hashtag/Med?src=hash&amp;ref_src=twsrc%5Etfw">#Med</a> this week. Over 1,000 lives in 2018.<br>And the Humanitarian fleet threatened by aberrant and inhuman politics. It can only go worse.<a href="https://twitter.com/hashtag/BackOpenArms?src=hash&amp;ref_src=twsrc%5Etfw">#BackOpenArms</a> <a href="https://t.co/EXIG3LFlLK">pic.twitter.com/EXIG3LFlLK</a></p>&mdash; Proactiva Open Arms ENG (@openarms_found) <a href="https://twitter.com/openarms_found/status/1010174812151517184?ref_src=twsrc%5Etfw">22 giugno 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 Il punto non è tanto se la responsabilità di questa o quella morte sia di Matteo Salvini, che non ha permesso alle navi delle Ong di intervenire chiudendo i porti, giustamente o ingiustamente; o sia delle stesse Ong, che possono aver ecceduto o meno nell’avvicinarsi alle coste Libiche incentivando la precarizzazione delle imbarcazioni scafiste.
 
 Il punto è, e rimane, se l’aver affermato dei diritti inalienabili in tutte le costituzioni europee, come quello alla vita, valga unicamente per noi in quanto abitanti di questo El Dorado, oppure valga per noi in quanto persone, ancor prima che cittadini.
