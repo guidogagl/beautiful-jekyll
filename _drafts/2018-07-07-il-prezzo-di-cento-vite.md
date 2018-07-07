@@ -44,4 +44,4 @@ Se, riportando quelle persone in Libia, ci fosse il minimo dubbio che queste ven
 
 Soprattuto questo indipendentemente se siamo gli unici a farlo o meno. Dell’immoralità altrui non si può pagare in vite umane.
 
-Tutto ciò non perché siamo buoni o caritatevoli, ma solo perché è l’occasione per mostrare a noi stessi che cosa siamo, a cosa siamo disposti a rinunciare, per affermare che il mondo deve assomigliare al paradiso nel quale viviamo noi e non all’inferno dal quale scappano gli altri.
+**Tutto ciò non perché siamo buoni o caritatevoli, ma solo perché è l’occasione per mostrare a noi stessi che cosa siamo**, a cosa siamo disposti a rinunciare, per affermare che il mondo deve assomigliare al paradiso nel quale viviamo noi e non all’inferno dal quale scappano gli altri.
