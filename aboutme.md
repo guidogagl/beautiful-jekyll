@@ -16,8 +16,10 @@ What else do you need?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
-{% jekyllgram 6 %}
-  <a href="{{ photo.link }}" title="{{ photo.caption.text }}">
-    <img src="{{ photo.images.thumbnail.url }}" title="{{ photo.caption.text }}" />
-  </a>
-{% endjekyllgram %}
+{% instagram accesstokenpath: ./_plugins/token.txt %}
+	<div>
+		<h3>{{ item.caption.text }}</h3>
+		<img src="{{ item.images.standard_resolution.url }}" />
+	</div>
+{% endinstagram %}
+
