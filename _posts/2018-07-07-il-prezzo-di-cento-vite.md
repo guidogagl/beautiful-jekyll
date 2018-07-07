@@ -3,6 +3,12 @@ layout: post
 title: Il prezzo di cento vite
 published: true
 date: '2018-07-07'
+tags:
+  - Migration
+  - Italia
+  - War
+  - Politics
+  - Medium Italia
 ---
 [Articolo originariamente postato su Medium.com](https://medium.com/@guidogagliardi/il-prezzo-di-cento-vite-5e3312fb5e6a)
 
