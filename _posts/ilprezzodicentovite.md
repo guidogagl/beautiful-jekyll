@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Il prezzo di cento vite
 published: true
 ---
