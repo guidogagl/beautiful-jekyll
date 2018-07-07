@@ -18,9 +18,9 @@ subtitle: >-
 ---
 [Articolo originariamente postato su Medium.com](https://medium.com/@guidogagliardi/il-prezzo-di-cento-vite-5e3312fb5e6a)
 
+Hanno nuotato per un’ora, dopo che, a pochi chilometri dalle coste libiche, il gommone sul quale stavano navigando ha iniziato a imbarcare acqua, a causa dello scoppio del motore andato a fuoco.
 
 ## Cento morti in mare. Tre neonati. Trenta donne. Settanta uomini.
-Hanno nuotato per un’ora, dopo che, a pochi chilometri dalle coste libiche, il gommone sul quale stavano navigando ha iniziato a imbarcare acqua, a causa dello scoppio del motore andato a fuoco.
 
 La Ong Proactiva sarebbe potuta intervenire a salvare quelle persone, rispondendo all’allarme mandato dal MRCC italiano che annunciava il naufragio, ma è proprio Roma a impedire l’azione di Open Arms, l’imbarcazione della Ong, sostenendo che se ne dovessero occupare i Libici essendo i naufraghi nella loro zona di competenza.
 
