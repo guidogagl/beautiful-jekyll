@@ -2,7 +2,7 @@
 layout: post
 title: Il prezzo di cento vite
 published: true
-date: '2018-07-07'
+date: '2018-07-01'
 tags:
   - migration
   - italia
