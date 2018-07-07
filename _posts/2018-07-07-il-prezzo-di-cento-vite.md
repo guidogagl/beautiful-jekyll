@@ -11,10 +11,6 @@ tags:
   - medium Italia
 bigimg: /img/prezzodicentovite-bigimg.jpeg
 image: /img/prezzodicentovite-img.jpg
-subtitle: >-
-  Hanno nuotato per un’ora, dopo che, a pochi chilometri dalle coste libiche, il
-  gommone sul quale stavano navigando ha iniziato a imbarcare acqua, a causa
-  dello scoppio del motore andato a fuoco.
 ---
 [Articolo originariamente postato su Medium.com](https://medium.com/@guidogagliardi/il-prezzo-di-cento-vite-5e3312fb5e6a)
 
