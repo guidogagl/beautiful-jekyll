@@ -12,8 +12,6 @@ tags:
 bigimg: /img/prezzodicentovite-bigimg.jpeg
 image: /img/prezzodicentovite-img.jpg
 ---
-[Articolo originariamente postato su Medium.com](https://medium.com/@guidogagliardi/il-prezzo-di-cento-vite-5e3312fb5e6a)
-
 Hanno nuotato per un’ora, dopo che, a pochi chilometri dalle coste libiche, il gommone sul quale stavano navigando ha iniziato a imbarcare acqua, a causa dello scoppio del motore andato a fuoco.
 
 ## Cento morti in mare. Tre neonati. Trenta donne. Settanta uomini.
@@ -52,3 +50,5 @@ Se, riportando quelle persone in Libia, ci fosse il minimo dubbio che queste ven
 Soprattuto questo indipendentemente se siamo gli unici a farlo o meno. Dell’immoralità altrui non si può pagare in vite umane.
 
 **Tutto ciò non perché siamo buoni o caritatevoli, ma solo perché è l’occasione per mostrare a noi stessi che cosa siamo**, a cosa siamo disposti a rinunciare, per affermare che il mondo deve assomigliare al paradiso nel quale viviamo noi e non all’inferno dal quale scappano gli altri.
+
+[Articolo originariamente postato su Medium.com](https://medium.com/@guidogagliardi/il-prezzo-di-cento-vite-5e3312fb5e6a)
