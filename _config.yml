@@ -247,5 +247,23 @@ collections:
   - medium_posts
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+gem 'dotenv', :groups => [:development, :test]
 
+gem "koala", "~> 2.2"
+
+gem "twitter", "~> 6.0.0"
+
+gem "hashie"
+
+gem "sinatra"
+
+gem "instagram", :git => 'git://github.com/gunnertech/instagram-ruby-gem.git'
+
+gem "mini_magick"
+
+gem 'nokogiri'
+
+gem 'metainspector'
+
+gem 'packr'
 theme: jekyll-theme-slate
