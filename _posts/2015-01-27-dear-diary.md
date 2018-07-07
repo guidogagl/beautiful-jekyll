@@ -1,11 +1,12 @@
 ---
 layout: posts
-title: Dear diary
+title: Il prezzo di cento vite
+published: true
 ---
-Articolo originariamente postato su Medium.com
-https://medium.com/@guidogagliardi/il-prezzo-di-cento-vite-5e3312fb5e6a
+[Articolo originariamente postato su Medium.com](https://medium.com/@guidogagliardi/il-prezzo-di-cento-vite-5e3312fb5e6a)
 
-Cento morti in mare. Tre neonati. Trenta donne. Settanta uomini.
+
+## Cento morti in mare. Tre neonati. Trenta donne. Settanta uomini.
 Hanno nuotato per un’ora, dopo che, a pochi chilometri dalle coste libiche, il gommone sul quale stavano navigando ha iniziato a imbarcare acqua, a causa dello scoppio del motore andato a fuoco.
 
 La Ong Proactiva sarebbe potuta intervenire a salvare quelle persone, rispondendo all’allarme mandato dal MRCC italiano che annunciava il naufragio, ma è proprio Roma a impedire l’azione di Open Arms, l’imbarcazione della Ong, sostenendo che se ne dovessero occupare i Libici essendo i naufraghi nella loro zona di competenza.
@@ -18,8 +19,7 @@ La risposta del Ministro degli Interni, Matteo Salvini, è spietata. Non si limi
 A fare eco al Ministro degli Interni è la comunità di internet: sui social quelli che si potrebbero definire suoi “volenterosi carnefici” confermano e santificano la tesi del leader dell’ex Lega Nord; mostrando una comunità civile che, anche dinnanzi alla morte di cento persone, non rinuncia alla necessità di lavarsene le mani, di affermare la giustezza delle proprie tesi, di scacciare l’ombra del minimo dubbio.
 
 
-sotto il video i commenti degli utenti del web
-Quanto siamo disposti a sacrificare per la vita di tre neonati? Qual è il loro prezzo?
+### Quanto siamo disposti a sacrificare per la vita di tre neonati? Qual è il loro prezzo?
 La risposta a questa domanda mi ossessiona da giorni.
 
 Nella nostra cultura, non siamo soliti attribuire valore alla vita. O meglio, non siamo soliti attribuirgliene una misura quantificabile. La sola idea di barattare la propria vita con qualsiasi cosa ci fa orrore e rappresenta un mondo che non ci appartiene.
@@ -44,6 +44,3 @@ Se, riportando quelle persone in Libia, ci fosse il minimo dubbio che queste ven
 Soprattuto questo indipendentemente se siamo gli unici a farlo o meno. Dell’immoralità altrui non si può pagare in vite umane.
 
 Tutto ciò non perché siamo buoni o caritatevoli, ma solo perché è l’occasione per mostrare a noi stessi che cosa siamo, a cosa siamo disposti a rinunciare, per affermare che il mondo deve assomigliare al paradiso nel quale viviamo noi e non all’inferno dal quale scappano gli altri.
-
-
-What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don't hear in those nursery rhymes is that she starves me if I don't go to school with her; it's the only way I can stay alive!  I'm thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).
