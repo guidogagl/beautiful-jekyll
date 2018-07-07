@@ -10,7 +10,7 @@ tags:
   - politics
   - medium Italia
 bigimg: /img/prezzodicentovite-bigimg.jpeg
-image: /img/prezzodicentovite-img.jpg
+image: /img/prezzodicentovite-img.png
 ---
 Hanno nuotato per un’ora, dopo che, a pochi chilometri dalle coste libiche, il gommone sul quale stavano navigando ha iniziato a imbarcare acqua, a causa dello scoppio del motore andato a fuoco.
 
