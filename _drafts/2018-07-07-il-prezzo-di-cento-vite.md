@@ -19,7 +19,7 @@ La risposta del Ministro degli Interni, Matteo Salvini, è spietata. Non si limi
 A fare eco al Ministro degli Interni è la comunità di internet: sui social quelli che si potrebbero definire suoi “volenterosi carnefici” confermano e santificano la tesi del leader dell’ex Lega Nord; mostrando una comunità civile che, anche dinnanzi alla morte di cento persone, non rinuncia alla necessità di lavarsene le mani, di affermare la giustezza delle proprie tesi, di scacciare l’ombra del minimo dubbio.
 
 
-### Quanto siamo disposti a sacrificare per la vita di tre neonati? Qual è il loro prezzo?
+## Quanto siamo disposti a sacrificare per la vita di tre neonati? Qual è il loro prezzo?
 La risposta a questa domanda mi ossessiona da giorni.
 
 Nella nostra cultura, non siamo soliti attribuire valore alla vita. O meglio, non siamo soliti attribuirgliene una misura quantificabile. La sola idea di barattare la propria vita con qualsiasi cosa ci fa orrore e rappresenta un mondo che non ci appartiene.
