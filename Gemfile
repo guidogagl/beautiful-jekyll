@@ -9,3 +9,5 @@ gem 'jekyll-paginate'
 group :jekyll_plugins do
   gem "jekyll-display-medium-posts"
 end
+
+gem 'dotenv-rails', groups: [:development, :test]
