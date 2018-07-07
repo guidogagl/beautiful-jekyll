@@ -33,7 +33,6 @@ La consapevolezza che, fuori dai nostri confini, dalle nostre frontiere, hanno l
 
 Ammettendo però che questo sia un paradiso a numero limitato, per esclusivo e solo diritto di nascita, stiamo tradendo noi stessi e il posto dal quale veniamo.
 
-
 Il punto non è tanto se la responsabilità di questa o quella morte sia di Matteo Salvini, che non ha permesso alle navi delle Ong di intervenire chiudendo i porti, giustamente o ingiustamente; o sia delle stesse Ong, che possono aver ecceduto o meno nell’avvicinarsi alle coste Libiche incentivando la precarizzazione delle imbarcazioni scafiste.
 
 Il punto è, e rimane, se l’aver affermato dei diritti inalienabili in tutte le costituzioni europee, come quello alla vita, valga unicamente per noi in quanto abitanti di questo El Dorado, oppure valga per noi in quanto persone, ancor prima che cittadini.
