@@ -30,6 +30,7 @@ La risposta del Ministro degli Interni, Matteo Salvini, è spietata. Non si limi
 
 A fare eco al Ministro degli Interni è la comunità di internet: sui social quelli che si potrebbero definire suoi “volenterosi carnefici” confermano e santificano la tesi del leader dell’ex Lega Nord; mostrando una comunità civile che, anche dinnanzi alla morte di cento persone, non rinuncia alla necessità di lavarsene le mani, di affermare la giustezza delle proprie tesi, di scacciare l’ombra del minimo dubbio.
 
+<iframe width="700" height="393" src="https://www.youtube.com/embed/ywhYWwp3CB0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Quanto siamo disposti a sacrificare per la vita di tre neonati? Qual è il loro prezzo?
 La risposta a questa domanda mi ossessiona da giorni.
@@ -43,6 +44,9 @@ Aver accettato questo principio è ciò che distingue l’Europa, e in particola
 La consapevolezza che, fuori dai nostri confini, dalle nostre frontiere, hanno luogo sistemi che non riconoscono questo principio, ovvero non attribuiscono alla vita un valore assoluto, dovrebbe bastare a capire che il nostro è davvero un paradiso unico e rarissimo, al di là del quale è solo inferno.
 
 Ammettendo però che questo sia un paradiso a numero limitato, per esclusivo e solo diritto di nascita, stiamo tradendo noi stessi e il posto dal quale veniamo.
+
+<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">After <a href="https://twitter.com/hashtag/Aquarius?src=hash&amp;ref_src=twsrc%5Etfw">#Aquarius</a> Where are the headlines?<br>Over 220 people drowned <a href="https://twitter.com/hashtag/Med?src=hash&amp;ref_src=twsrc%5Etfw">#Med</a> this week. Over 1,000 lives in 2018.<br>And the Humanitarian fleet threatened by aberrant and inhuman politics. It can only go worse.<a href="https://twitter.com/hashtag/BackOpenArms?src=hash&amp;ref_src=twsrc%5Etfw">#BackOpenArms</a> <a href="https://t.co/EXIG3LFlLK">pic.twitter.com/EXIG3LFlLK</a></p>&mdash; Proactiva Open Arms ENG (@openarms_found) <a href="https://twitter.com/openarms_found/status/1010174812151517184?ref_src=twsrc%5Etfw">22 giugno 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Il punto non è tanto se la responsabilità di questa o quella morte sia di Matteo Salvini, che non ha permesso alle navi delle Ong di intervenire chiudendo i porti, giustamente o ingiustamente; o sia delle stesse Ong, che possono aver ecceduto o meno nell’avvicinarsi alle coste Libiche incentivando la precarizzazione delle imbarcazioni scafiste.
 
