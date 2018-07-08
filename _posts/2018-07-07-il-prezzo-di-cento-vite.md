@@ -22,7 +22,9 @@ La Ong Proactiva sarebbe potuta intervenire a salvare quelle persone, rispondend
 
 L’unica cosa che sembra farsi evidente però è che avremmo potuto salvarli.
 
-{%tweet https://twitter.com/UNHCRLibya/status/1012703790787465225 %}
+<blockquote class="twitter-tweet" data-lang="it"><p lang="en" dir="ltr">Saddened by the loss of 100 lives today off the coast of Libya in Tajoura - 30 women and 70 men died after swimming for one hour before they were rescued. UNHCR teams supported the 16 survivors upon disembarkation with humanitarian and medical assistance <a href="https://t.co/8NvSOObgLd">pic.twitter.com/8NvSOObgLd</a></p>&mdash; UNHCR Libya (@UNHCRLibya) <a href="https://twitter.com/UNHCRLibya/status/1012703790787465225?ref_src=twsrc%5Etfw">29 giugno 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 La risposta del Ministro degli Interni, Matteo Salvini, è spietata. Non si limita infatti a confermare la linea politica scelta negli ultimi giorni: la chiusura dei porti italiani alle Ong. Va oltre condannando le organizzazioni non governative ed ergendole a uniche vere responsabili delle morti in mare.
 
