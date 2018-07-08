@@ -23,7 +23,9 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
+  Blog: 
+    - Blog: "blog"
+    - Tags: "tags"
   About Me: ""
  
 paginate_path: "/blog/page:num/" 
