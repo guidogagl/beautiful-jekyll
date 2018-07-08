@@ -22,9 +22,6 @@ La Ong Proactiva sarebbe potuta intervenire a salvare quelle persone, rispondend
 
 L’unica cosa che sembra farsi evidente però è che avremmo potuto salvarli.
 
-### TL;DR
-
-https://twitter.com/UNHCRLibya/status/1012703790787465225
 
 La risposta del Ministro degli Interni, Matteo Salvini, è spietata. Non si limita infatti a confermare la linea politica scelta negli ultimi giorni: la chiusura dei porti italiani alle Ong. Va oltre condannando le organizzazioni non governative ed ergendole a uniche vere responsabili delle morti in mare.
 
