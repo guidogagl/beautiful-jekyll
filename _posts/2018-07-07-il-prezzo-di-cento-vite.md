@@ -54,7 +54,7 @@ Il punto non è tanto se la responsabilità di questa o quella morte sia di Matt
 
 In quest’ultimo caso salvare quelle vite, impedire ad ogni costo e con ogni mezzo che anche una sola di quelle si spenga, dovrebbe essere un nostro dovere, un nostro imperativo.
 
-Se, riportando quelle persone in Libia, ci fosse il minimo dubbio che queste vengano segregate nei lager mostrati dai servizi della BBC, sarebbe nostro dovere impedirlo e mantenerle al sicuro.
+Se, riportando quelle persone in Libia, ci fosse il minimo dubbio che queste [vengano segregate nei lager](https://www.youtube.com/watch?v=m93RBg8kCWA) mostrati dai servizi della BBC, sarebbe nostro dovere impedirlo e mantenerle al sicuro.
 
 Soprattuto questo indipendentemente se siamo gli unici a farlo o meno. Dell’immoralità altrui non si può pagare in vite umane.
 
