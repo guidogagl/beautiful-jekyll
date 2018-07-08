@@ -242,6 +242,7 @@ plugins:
   - jekyll-sitemap
   - instagram-jekyll
   - jekyll-seo-tag  
+  - tweet_tag
   
 collections:
   - medium_posts
