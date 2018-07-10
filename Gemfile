@@ -8,6 +8,8 @@ gem 'jekyll-paginate'
 
 group :jekyll_plugins do
   gem "jekyll-display-medium-posts"
+  gem "tweet_tag"
 end
 
 gem 'dotenv-rails', groups: [:development, :test]
+
