@@ -29,25 +29,47 @@ published: true
 .panel {
  margin-top: 25px;
 }
+  #left {
+    left:-8.33%;
+    text-align: left;
+    float: left;
+    width:50%;
+    z-index:-10;
+  }
+
+  #right {
+    left:31.25%;
+    top: 75px;
+    float: right;
+    text-align: right;
+    z-index:-10;
+    width:50%;
+  }
 </style>
 
-<div class="row">
-   <div class="col-md-4"></div>
-   <div class="container">
-      <div class="col-md-4">
-         <div class="panel panel-danger">
-            <div class="panel-heading">
-               <h3 class="panel-title"><i class="fa fa-twitter-square" aria-hidden="true"></i>
-                  Guido Gagliardi live
-               </h3>
-            </div>
-            <div class="panel-body">
-               <a class="twitter-timeline" href="https://twitter.com/4ooms?ref_src=twsrc%5Etfw">Tweets by 4ooms</a>
-            </div>
-         </div>
-      </div>
-   </div>
-   <div class="col-md-4">
-   </div>
+<div id="right">  
+  <div class="row">
+     <div class="col-md-4"></div>
+     <div class="container">
+        <div class="col-md-4">
+           <div class="panel panel-danger">
+              <div class="panel-heading">
+                 <h3 class="panel-title"><i class="fa fa-twitter-square" aria-hidden="true"></i>
+                    Guido Gagliardi live
+                 </h3>
+              </div>
+              <div class="panel-body">
+                 <a class="twitter-timeline" href="https://twitter.com/4ooms?ref_src=twsrc%5Etfw">Tweets by 4ooms</a>
+              </div>
+           </div>
+        </div>
+     </div>
+     <div class="col-md-4">
+     </div>
+  </div>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div id="left">
+  #content
+</div>
