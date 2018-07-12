@@ -79,4 +79,4 @@ Con affetto,
 
 Guido Gagliardi.
 
-Articolo originariamente pubblicato su RadioEco.it
+[Articolo originariamente pubblicato su RadioEco.it](http://radioeco.it/lettera-nanni-moretti/)
