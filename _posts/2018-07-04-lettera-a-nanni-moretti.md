@@ -35,6 +35,8 @@ Pur ammettendo che effettivamente questo clima non piaccia troppo neanche a me, 
 
 Ti scrivo perchè in  questi giorni mentre guardavo qualche video su YouTube mi sono imbattuto in un filmato dal nome « Nanni Moretti a Piazza Navona.flv ». Dal palco di una manifestazione dell’Ulivo del 2002, un uomo tra fischi e qualche applauso diceva quello probabilmente che pensavano tutti, ma nessuno aveva il coraggio di urlare. « Con questi dirigenti non vinceremo mai ».
 
+<iframe width="1374" height="619" src="https://www.youtube.com/embed/8kuVgaPZyts" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Mentre spiegavi la necessità di effettuare un grande salto generazionale nella classe dirigente del centrosinistra non ho potuto fare a meno di sorridere. In qualche modo la storia è riuscita a darti ragione e torto allo stesso tempo.
 
 E’ vero che per la prima volta la sinistra italiana è stata davvero maggioritaria grazie a un grande salto generazionale dei suoi Leader. Ma è vero allo stesso momento che, pur avendo fragorosamente vinto qualche elezione, ha perso la sfida vera con il paese.
